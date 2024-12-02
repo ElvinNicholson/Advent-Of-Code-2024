@@ -6,11 +6,6 @@
 class Code1
 {
 public:
-    int main()
-    {
-        return 0;
-    }
-
     int getTotalDiff()
     {
         // Parse List
