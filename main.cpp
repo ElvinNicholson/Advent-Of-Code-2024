@@ -1,10 +1,11 @@
 #include <iostream>
 #include "1.cpp"
 #include "2.cpp"
+#include "3.cpp"
 
 int main() {
-    Code2 code2;
+    Code3 code3;
 
-    std::cout << std::to_string(code2.getSafeReports()) << std::endl;
+    std::cout << std::to_string(code3.getMultTotal()) << std::endl;
     return 0;
 }
