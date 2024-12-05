@@ -2,10 +2,11 @@
 #include "1.cpp"
 #include "2.cpp"
 #include "3.cpp"
+#include "4.cpp"
 
 int main() {
-    Code3 code3;
+    Code4 code4;
 
-    std::cout << std::to_string(code3.getMultTotal()) << std::endl;
+    std::cout << std::to_string(code4.getXmasTotal()) << std::endl;
     return 0;
 }
