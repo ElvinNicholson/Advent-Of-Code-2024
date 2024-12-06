@@ -1,12 +1,9 @@
 #include <iostream>
-#include "1.cpp"
-#include "2.cpp"
-#include "3.cpp"
-#include "4.cpp"
+#include "5.cpp"
 
 int main() {
-    Code4 code4;
+    Code5 code5;
 
-    std::cout << std::to_string(code4.getXmasTotal()) << std::endl;
+    std::cout << code5.getMidTotal() << std::endl;
     return 0;
 }
