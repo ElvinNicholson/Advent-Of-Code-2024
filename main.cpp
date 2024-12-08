@@ -1,9 +1,9 @@
 #include <iostream>
-#include "5.cpp"
+#include "6.cpp"
 
 int main() {
-    Code5 code5;
+    Code6 code6;
 
-    std::cout << code5.getMidTotal() << std::endl;
+    std::cout << code6.getTotalMovement() << std::endl;
     return 0;
 }
